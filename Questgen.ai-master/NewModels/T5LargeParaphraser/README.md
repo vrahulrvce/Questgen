@@ -72,10 +72,3 @@ paraphrasedoutput: A gang of frogs was roaming about the woods in search of wate
 ```
 </details>
 
-Check out more examples in the Colab Notebook.
-
-
-
-
-This paraphraser is released by QuestgenAI as a part of its open-source initiative to build advanced Question generation and related NLP algorithms. It is on a quest build the world's most advanced question generation AI leveraging on state-of-the-art transformer models like GPT-3, T5, BERT and OpenAI GPT-2 etc. <br>
-We would appreciate if you can spread the word out about Questgen.
